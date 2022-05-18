@@ -2,7 +2,7 @@
 I'm Dylan - I've been doing iOS for a while now.
 
 ## What I do
-I'm currently a Senior Engineering Manager for the iOS team working on Flipgrid at Microsoft.
+I'm currently a Senior Engineer for the iOS team at Slack.
 
 I'm happy to answer questions about iOS, mobile development, or whatever. reach out.
 
